@@ -1,0 +1,4 @@
+rpy2==2.8.6
+singledispatch==3.4.0.3
+six==1.10.0
+git+https://bitbucket.org/kornferryplatform/python-test-module.git
